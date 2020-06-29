@@ -1,0 +1,12 @@
+1.改clip.py的參數
+python3 clip.py
+
+
+2.create pkl file from train
+python3 cmddatapack.py --dir=data/train --out=train.pkl
+python3 cmddatapack.py --dir=data/val --out=val.pkl
+
+
+3. train 
+
+python3 train.py --model_dir=seeds --summary_dir=summary --train_pkl=train.pkl --val_pkl=val.pkl
