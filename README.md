@@ -25,6 +25,6 @@ The python is available on PyPI, and you can install it by typing
 
 
 ## References
-  https://arxiv.org/abs/1508.04306
+  https://github.com/chaodengusc/DeWave
 
 
