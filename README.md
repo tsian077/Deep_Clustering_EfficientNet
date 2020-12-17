@@ -24,7 +24,7 @@ The python is available on PyPI, and you can install it by typing
 ## Training your speaker separator
 
 
-## References
+## Source code get from:
   https://github.com/chaodengusc/DeWave
 
 
